@@ -40,41 +40,55 @@ CMDBAccessCheckUtil.prototype = {
         <sys_created_by>xuejia.lu</sys_created_by>
         <sys_created_on>2016-03-31 21:34:09</sys_created_on>
         <sys_id>be7d6fb4d72212004b2fa5f75e610333</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>CMDBAccessCheckUtil</sys_name>
         <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">dab52d995d230010c88631adeaf0aead</sys_package>
         <sys_policy/>
         <sys_scope display_value="claim708">a13bb9916c230010f877a47fae80bf7e</sys_scope>
         <sys_update_name>sys_script_include_be7d6fb4d72212004b2fa5f75e610333</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-13 16:51:28</sys_updated_on>
+        <sys_updated_on>2020-03-13 17:12:33</sys_updated_on>
     </sys_script_include>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="claim708">a13bb9916c230010f877a47fae80bf7e</claim_owner_scope>
-        <claim_timestamp>170d4ced20d0000001</claim_timestamp>
+        <claim_timestamp>170d4e21c7f0000001</claim_timestamp>
         <metadata_update_name>sys_script_include_be7d6fb4d72212004b2fa5f75e610333</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>claim708</previous_claim_name>
         <previous_claim_scope>a13bb9916c230010f877a47fae80bf7e</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-13 16:51:28</sys_created_on>
-        <sys_id>eecbf1d16c230010f877a47fae80bf13</sys_id>
+        <sys_created_on>2020-03-13 17:12:33</sys_created_on>
+        <sys_id>5f908e556c230010f877a47fae80bfc1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-13 16:51:28</sys_updated_on>
+        <sys_updated_on>2020-03-13 17:12:33</sys_updated_on>
     </sys_claim>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="claim708">a13bb9916c230010f877a47fae80bf7e</claim_owner_scope>
-        <claim_timestamp>170d4ced2030000001</claim_timestamp>
+        <claim_timestamp>170d4d0d9b80000001</claim_timestamp>
+        <metadata_update_name>sys_script_include_be7d6fb4d72212004b2fa5f75e610333</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>AGlobal App</previous_claim_name>
+        <previous_claim_scope>80fb7915db630010adba5478dc9619e8</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 17:12:33</sys_created_on>
+        <sys_id>5b908e556c230010f877a47fae80bfc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 17:12:33</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="claim708">a13bb9916c230010f877a47fae80bf7e</claim_owner_scope>
+        <claim_timestamp>170d4d0d9a40000001</claim_timestamp>
         <metadata_update_name>sys_script_include_be7d6fb4d72212004b2fa5f75e610333</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>com.snc.cmdb</previous_claim_name>
         <previous_claim_scope>com.snc.cmdb</previous_claim_scope>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-13 16:51:28</sys_created_on>
-        <sys_id>2acbf1d16c230010f877a47fae80bf14</sys_id>
+        <sys_created_on>2020-03-13 17:12:33</sys_created_on>
+        <sys_id>97908e556c230010f877a47fae80bfc2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-13 16:51:28</sys_updated_on>
+        <sys_updated_on>2020-03-13 17:12:33</sys_updated_on>
     </sys_claim>
 </record_update>
